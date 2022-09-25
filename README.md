@@ -3,7 +3,7 @@
 
 Virtual Internship - Android Application Development Using Kotlin
 
-Smartinternz Dashboard Link- hhttps://smartinternz.com/student-profile/feed/U0IyMDIyMDIwNDE1Mg==
+Smartinternz Dashboard Link- https://smartinternz.com/student-profile/feed/U0IyMDIyMDIwNDE1Mg==
 
 Google Developer Profile Link- https://g.dev/siripujithadanaboyina 
 
